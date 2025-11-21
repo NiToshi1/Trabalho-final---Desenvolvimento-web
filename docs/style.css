@@ -1,0 +1,8 @@
+
+body {
+    background-image: url('IMG/fundo.png'); 
+    background-size: cover;
+    display: flex; 
+    flex-direction: column;
+}
+ 
